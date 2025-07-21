@@ -1,0 +1,7 @@
+실행방법
+
+1. matlab에서 waypoint_creator.m을 실행시킨다.
+
+2. do_waypoints_tail_shifted, gotopark mat file을 load 한다.
+
+3. carmaker 실행

@@ -1,0 +1,16 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-DVA 4.0
+nDialogQu = 10
+Qu.0.Name = DM.SelectorCtrl
+Qu.0.Mode = - value
+Qu.0.Groups = G1
+Qu.0.Count = 1000
+Qu.0.Value = -1
+Qu.0.Unit = -
+Qu.1.Name = AccelCtrl.DesiredAx
+Qu.1.Mode = - value
+Qu.1.Groups = G1
+Qu.1.Count = 1000
+Qu.1.Value = 0
+Qu.1.Unit = m/s²
+nQu = 2

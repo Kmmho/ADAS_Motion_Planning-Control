@@ -1,0 +1,135 @@
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day4_5_scenario1	2025-05-18 13:27:40
+TIME	0.000
+SIMULATE	day4_5_scenario1
+
+TIME	22.003
+SIM_END		day4_5_scenario1	22s	1.18875e-05m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day4_5_scenario1	2025-05-18 13:29:36
+TIME	0.000
+SIMULATE	day4_5_scenario1
+
+TIME	24.003
+SIM_END		day4_5_scenario1	24s	1.29603e-05m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:30:31
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	2.684
+ERROR		Vehicle leaves road at about x=4.76541, y=40.5331 TireNo=0
+SIM_ABORT	day2_scenario5	2.687s	36.6875m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:30:49
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	2.684
+ERROR		Vehicle leaves road at about x=4.76541, y=40.5331 TireNo=0
+SIM_ABORT	day2_scenario5	2.687s	36.6875m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:32:24
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	4.687
+ERROR		Vehicle leaves road at about x=18.9641, y=64.3883 TireNo=0
+SIM_ABORT	day2_scenario5	4.69s	63.8025m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:33:05
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	3.540
+ERROR		Vehicle leaves road at about x=10.3788, y=51.7786 TireNo=0
+SIM_ABORT	day2_scenario5	3.543s	48.4052m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:33:25
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	5.926
+ERROR		Vehicle leaves road at about x=31.508, y=77.6025 TireNo=0
+SIM_ABORT	day2_scenario5	5.929s	81.2108m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:33:45
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	5.926
+ERROR		Vehicle leaves road at about x=31.508, y=77.6025 TireNo=0
+SIM_ABORT	day2_scenario5	5.929s	81.2108m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:38:54
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	45.026
+SIM_END		day2_scenario5	45.026s	624.631m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:41:33
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	45.026
+SIM_END		day2_scenario5	45.026s	624.631m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 15:42:16
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	45.026
+SIM_END		day2_scenario5	45.026s	624.631m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day4_5_scenario1	2025-05-18 16:35:11
+TIME	0.000
+SIMULATE	day4_5_scenario1
+
+SIM_END		day4_5_scenario1	0s	0m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario5	2025-05-18 16:36:38
+TIME	0.000
+SIMULATE	day2_scenario5
+
+TIME	45.026
+SIM_END		day2_scenario5	45.026s	624.631m

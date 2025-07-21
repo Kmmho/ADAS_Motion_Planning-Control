@@ -1,0 +1,13 @@
+
+
+SYSTEM_START	-	desktop-jf22mne	일 5 18 13:28:38 2025
+
+
+SYSTEM_INFO	Movie NX pro 14.0.1 2025-01-27
+Creating engine cache path: C:/Users/User/AppData/Local/cache/MovieNX/cache_140
+[Warning] Invalid configuration file for Creator "MovieNX". Perhaps the file was not yet created? Path: C:/Users/User/MovieNX/data/View/ViewSettings.cfg)
+APO: Successfully connected to: CarMaker 14.0.1 - Car_Generic @ DESKTOP-JF22MNE(127.0.0.1):24376
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+ApoConnection: Disconnecting...
