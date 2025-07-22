@@ -20,4 +20,5 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고�
 
 ## 2️⃣ Driving  
 |[Local Path Planning]<br>1. Catesian to Frenet Frame<br>2. Make Path List<br>3. Make Obstacle List<br>4. Decision Path<br>5. Frenet to Catesian Frame<br>6. Catesian to GlobalFrame<br><br>[Driving Control]<br>1. PD Speed Control<br>2. Pure Pursuit Steering Control||
+|---|---|
 
