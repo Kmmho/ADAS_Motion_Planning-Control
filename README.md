@@ -12,3 +12,9 @@
 
 ### MATLAB & Simulink Diagram  
 <img width="400" height="450" alt="Image" src="https://github.com/user-attachments/assets/5488ec9b-5f3f-4612-b607-962c51c13b34" /> <br> -> FSM을 설계하여 Driving Mode, To-Parking-Area Mode, Parking Mode를 Flag로 전환할 수 있다. <br>
+
+## 1️⃣ Global Path Planning  
+Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고리즘 적용  
+<img width="400" height="450" alt="Image" src="https://github.com/user-attachments/assets/b22a5e98-d87a-470d-bec1-59241248196a" /> <br>
+
+
