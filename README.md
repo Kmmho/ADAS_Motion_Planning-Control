@@ -34,7 +34,17 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고�
       2. Pure Pursuit Steering Control
     </td>
     <td>
-      <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/a8abf03c-56ef-44e6-8a6c-635378a90760" />
+      <img width="300" height="300" alt="Path Planning Image" src="https://github.com/user-attachments/assets/a8abf03c-56ef-44e6-8a6c-635378a90760" />
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      [Trajectory Planning]<br>
+      1. Candidate Trajectory Planning<br>
+      2. Cost Function Trajectory Planning
+    </td>
+    <td>
+      <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c977e7ed-eb5e-4915-80f8-4747faed30c1" /><img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3aa4c221-5cf1-436d-b6c3-8c9fa564abc8" />
     </td>
   </tr>
 </table>
