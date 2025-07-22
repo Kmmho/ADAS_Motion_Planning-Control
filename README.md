@@ -50,6 +50,6 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고�
 </table>  
 
 ## 3️⃣ Parking  
-<img width="239" height="260" alt="Image" src="https://github.com/user-attachments/assets/dfc34a24-f92d-47f3-b84c-31801faae6ae" /><img width="649" height="320" alt="Image" src="https://github.com/user-attachments/assets/291a6765-5c39-41e3-9d1c-93ff32bfb9b2" />
+<img width="239" height="260" alt="Image" src="https://github.com/user-attachments/assets/dfc34a24-f92d-47f3-b84c-31801faae6ae" /><img width="500" height="320" alt="Image" src="https://github.com/user-attachments/assets/291a6765-5c39-41e3-9d1c-93ff32bfb9b2" />
 
 
