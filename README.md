@@ -44,7 +44,7 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고�
       2. Cost Function Trajectory Planning
     </td>
     <td>
-      <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c977e7ed-eb5e-4915-80f8-4747faed30c1" /><img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3aa4c221-5cf1-436d-b6c3-8c9fa564abc8" />
+      <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/c977e7ed-eb5e-4915-80f8-4747faed30c1" /><img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/3aa4c221-5cf1-436d-b6c3-8c9fa564abc8" />
     </td>
   </tr>
 </table>
