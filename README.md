@@ -11,4 +11,4 @@
 <img width="400" height="450" alt="Image" src="https://github.com/user-attachments/assets/aa6cc58e-4b96-4b90-bf24-7e1ca28f9487" /> <br>
 
 ### MATLAB & Simulink Diagram  
-<img width="400" height="450" alt="Image" src="https://github.com/user-attachments/assets/5488ec9b-5f3f-4612-b607-962c51c13b34" />
+<img width="400" height="450" alt="Image" src="https://github.com/user-attachments/assets/5488ec9b-5f3f-4612-b607-962c51c13b34" /> <br> FSM을 설계하여 Driving Mode, To-Parking-Area Mode, Parking Mode를 Flag로 전환할 수 있다. <br>
