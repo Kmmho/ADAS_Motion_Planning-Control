@@ -59,4 +59,9 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고�
 ---  
 
 <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/336dfebe-20dc-420d-ae08-16853f306fa7" /><br>
--> Test Case로 '2개의 차량이 같은 y선 상에 2개의 차선을 막고 있을 때' 회피가 제대로 되지 않는 결함을 발견
+-> Test Case로 '2개의 차량이 같은 y선 상에 2개의 차선을 막고 있을 때' 회피가 제대로 되지 않는 결함을 발견  
+
+## 시연영상  
+[Here](https://youtu.be/TwMqGNApJog)  
+
+
