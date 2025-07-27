@@ -65,6 +65,6 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A* 알고�
 [https://youtu.be/TwMqGNApJog](https://youtu.be/TwMqGNApJog)  
 
 ## ⭐Awards⭐  
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/d5cc03aa-bebd-41b8-9f3b-6dd6fe0ba571" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/d5cc03aa-bebd-41b8-9f3b-6dd6fe0ba571" />
 
 
